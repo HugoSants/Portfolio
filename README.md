@@ -1,16 +1,53 @@
-# React + Vite
+# Hugo Rocha | Portfólio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfólio pessoal desenvolvido com React e Vite, apresentando meus projetos, habilidades e informações de contato.
 
-Currently, two official plugins are available:
+## Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **React 19** — Componentização e UI reativa
+- **Vite** — Build tool rápido com HMR
+- **CSS Modules** — Estilização modular e isolada
+- **Lucide React** — Ícones modernos
+- **GitHub Pages** — Deploy automatizado
 
-## React Compiler
+## Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Design responsivo e moderno com tema escuro
+- Seções: Hero, Sobre, Habilidades, Projetos, Serviços e Contato
+- Conteúdo gerenciado via JSON (`src/data/siteContent.json`)
+- Deploy automático no GitHub Pages
 
-## Expanding the ESLint configuration
+## Como executar
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+# Instalar dependências
+npm install
+
+# Iniciar servidor de desenvolvimento
+npm run dev
+
+# Gerar build de produção
+npm run build
+
+# Deploy no GitHub Pages
+npm run deploy
+```
+
+## Estrutura do projeto
+
+```
+src/
+├── components/     # Componentes React com CSS Modules
+├── data/           # Conteúdo do site (siteContent.json)
+├── assets/         # Assets estáticos importados
+├── App.jsx         # Componente raiz
+└── main.jsx        # Entry point
+public/
+└── images/         # Imagens do site (perfil e projetos)
+```
+
+## Contato
+
+- **Email:** hugosantoss093@gmail.com
+- **LinkedIn:** [Hugo Rocha](https://www.linkedin.com/in/hugo-rocha-105a65341/)
+- **GitHub:** [HugoSants](https://github.com/HugoSants)
