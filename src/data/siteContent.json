@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Desenvolvedor Full Stack",
+    "nameHighlight": "Hugo",
+    "nameRest": "Rocha",
+    "subtitle": "Desenvolvedor especialista em aplicações web com APIs, banco de dados. Desenvolvendo aplicações modernas usando React, Node.js, Fastify e .NET",
+    "ctaButton": "Sobre mim",
+    "ctaLink": "#sobre-mim",
+    "profileImage": "/images/profile.png"
+  },
+  "about": {
+    "title": "Sobre mim",
+    "text": "Seja muito bem-vindo(a)! Conheça a minha trajetória: Estudante de tecnologia apaixonado por",
+    "highlight": "programação",
+    "textAfter": "e inovação, com experiência em desenvolvimento de Backend e Frontend. Busco sempre aplicar boas práticas de código, arquitetura limpa e soluções criativas para entregar projetos de alta qualidade. Meu objetivo é construir aplicações que impactem positivamente a vida das pessoas, combinando tecnologia de ponta com design intuitivo."
+  },
+  "skills": {
+    "title": "Principais habilidades",
+    "items": [
+      {
+        "icon": "server",
+        "title": "APIs & Backend",
+        "description": "Construção de APIs robustas e escaláveis com Node.js e .NET"
+      },
+      {
+        "icon": "layout",
+        "title": "Frontend & UI",
+        "description": "Criação e manipulação de interfaces de usuário modernas e responsivas"
+      },
+      {
+        "icon": "gitBranch",
+        "title": "Versionamento",
+        "description": "Controle de versão com Git, GitHub e Git Flow para colaboração eficiente"
+      },
+      {
+        "icon": "cloud",
+        "title": "DevOps & Deploy",
+        "description": "Processos de deploy com Python e DevOps utilizando AWS e Azure"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Explore alguns projetos que eu já desenvolvi",
+    "items": [
+      {
+        "title": "Sistema de Gestão Escolar - SAGA",
+        "description": "Sistema completo de gestão escolar com controle de alunos, professores, turmas e notas. Desenvolvido com foco em usabilidade e eficiência administrativa.",
+        "image": "/images/projects/saga.png",
+        "link": "https://github.com/SAGA-TCC/SAGA"
+      },
+      {
+        "title": "CandyBite",
+        "description": "E-commerce de doces artesanais com catálogo interativo, sistema de favoritos e checkout via WhatsApp. Interface moderna com design responsivo.",
+        "image": "/images/projects/candybite.png",
+        "link": "https://github.com/HugoSants/CandyBite"
+      },
+      {
+        "title": "IA - Flappy Bird",
+        "description": "Implementação de inteligência artificial com algoritmo genético (NEAT) aplicado ao jogo Flappy Bird usando Python e Pygame. O agente aprende a jogar sozinho.",
+        "image": "/images/projects/ia-flappy-bird.jpeg",
+        "link": "https://github.com/HugoSants/IA---Flappy-Bird"
+      }
+    ]
+  },
+  "services": {
+    "title": "Como posso te ajudar",
+    "items": [
+      {
+        "icon": "code",
+        "title": "Desenvolvimento de soluções",
+        "description": "Desenvolvimento de soluções em forma de código"
+      },
+      {
+        "icon": "monitor",
+        "title": "Páginas interativas",
+        "description": "Criação de páginas interativas"
+      },
+      {
+        "icon": "bot",
+        "title": "Projetos com IA",
+        "description": "Gerenciar projetos usando IA"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Entre em contato comigo",
+    "items": [
+      {
+        "icon": "mail",
+        "label": "Email",
+        "value": "hugosantoss093@gmail.com",
+        "link": "mailto:hugosantoss093@gmail.com"
+      },
+      {
+        "icon": "linkedin",
+        "label": "LinkedIn",
+        "value": "Hugo Rocha",
+        "link": "https://www.linkedin.com/in/hugo-rocha-105a65341/"
+      },
+      {
+        "icon": "github",
+        "label": "GitHub",
+        "value": "HugoSants",
+        "link": "https://github.com/HugoSants"
+      }
+    ]
+  }
+}

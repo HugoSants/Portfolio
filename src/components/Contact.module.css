@@ -1,0 +1,83 @@
+.contact {
+  padding: 6rem 2rem 4rem;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.divider {
+  width: 60px;
+  height: 3px;
+  background: #6558FE;
+  margin: 0 auto 3rem;
+  border-radius: 2px;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(101, 88, 254, 0.15);
+  border-radius: 12px;
+  padding: 1.2rem 1.8rem;
+  text-decoration: none;
+  transition: all 0.3s;
+  min-width: 250px;
+}
+
+.card:hover {
+  border-color: #CDFF4E;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(205, 255, 78, 0.08);
+}
+
+.iconWrapper {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: rgba(101, 88, 254, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #CDFF4E;
+  flex-shrink: 0;
+}
+
+.label {
+  font-size: 0.8rem;
+  color: #888;
+  text-align: left;
+  margin-bottom: 0.2rem;
+}
+
+.value {
+  font-size: 0.95rem;
+  color: #fff;
+  font-weight: 500;
+  text-align: left;
+}
+
+@media (max-width: 600px) {
+  .card {
+    width: 100%;
+    min-width: unset;
+  }
+}
