@@ -3,7 +3,7 @@
     "badge": "Desenvolvedor Full Stack",
     "nameHighlight": "Hugo",
     "nameRest": "Rocha",
-    "subtitle": "Desenvolvedor especialista em aplicações web com APIs, banco de dados. Desenvolvendo aplicações modernas usando React, Node.js, Fastify e .NET",
+    "subtitle": "Estudante de tecnologia com foco em desenvolvimento web, construindo projetos com React, Node.js, Fastify e .NET. Tenho familiaridade com criação de APIs e banco de dados, e busco evoluir constantemente aplicando essas tecnologias em projetos práticos.",
     "ctaButton": "Sobre mim",
     "ctaLink": "#sobre-mim",
     "profileImage": "/images/profile.png"
@@ -11,8 +11,8 @@
   "about": {
     "title": "Sobre mim",
     "text": "Seja muito bem-vindo(a)! Conheça a minha trajetória: Estudante de tecnologia apaixonado por",
-    "highlight": "programação",
-    "textAfter": "e inovação, com experiência em desenvolvimento de Backend e Frontend. Busco sempre aplicar boas práticas de código, arquitetura limpa e soluções criativas para entregar projetos de alta qualidade. Meu objetivo é construir aplicações que impactem positivamente a vida das pessoas, combinando tecnologia de ponta com design intuitivo."
+    "highlight": "programação. ",
+    "textAfter": "Estudante de tecnologia com grande interesse por programação e inovação. Venho desenvolvendo habilidades em Backend e Frontend por meio de projetos acadêmicos e pessoais, sempre buscando aplicar boas práticas de código e soluções criativas. Estou em busca da minha primeira oportunidade profissional na área, com vontade de aprender, contribuir e crescer dentro de um time de desenvolvimento."
   },
   "skills": {
     "title": "Principais habilidades",
